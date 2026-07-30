@@ -21,7 +21,7 @@ class Program
 
         List<string> texts = new List<string>
         {
-            "And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble, and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them.",
+            "And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble,  and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them.",
             "And behold, I tell you these things that ye may learn wisdom; that ye may learn that when ye are in the service of your fellow beings ye are only in the service of your God.",
             "I, the Lord, am bound when ye do what I say; but when ye do not what I say, ye have no promise."
         };
